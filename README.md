@@ -1,2 +1,2 @@
 # wordle_clone
-A world clone in python
+A wordle clone in python 
